@@ -90,7 +90,7 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
      * La vogal tónica è sèmpre acentuada exceto quando ella è la vogal anterior a la última consonante e exceto quando ella è la primerîa vogal de un hiato.  Las semiconsonantes î e û non son consideradas vogales. 
        * sab**i**a, sab**i**an - excecîon, primeîra vogal de un hiato
        * s**a**bîo, cancî**o**n - excecîon, vogal anterior a la ultima consonante 
-       * p***á***ssaro, caf***é***, f***á***cil, parl***á***ron - regla general
+       * p***á***ssaro, caf***é***, f***á***cil, fabl***á***ron - regla general
     * Qûando ha un acento grave en una vogal non tónica, la vogal tónica è sèmpre acentuada.
     * Los monossílabos non son acentuados, exceto qûando ha un oûtro monossilabo átono con la mesma grafia.
 - Las palavras compostas son sempre escritas sen separacîon. Quando la segunda parte inicia con s o r, elle è duplicado. Exemplo: prehistórico e pressocrático.
