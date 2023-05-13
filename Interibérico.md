@@ -93,7 +93,24 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
     - Los monossílabos non son acentuados, exceto qûando ha un oûtro monossilabo átono con la mesma grafia.
 * Las palavras compostas son sempre escritas sen separacîon. Quando la segunda parte inicia con s o r, elle è duplicado. Exemplo: prehistórico e pressocrático.
 
-### Vocabularîo temático ###
+### Vocabularîo de referência ###
+Para se encontrar una palavra en lo vocabulario de referencia para un determinado significado.
+- Si ha una palavra en portugués e en castellano modernos con lo mesmo significado, ella è acepta.
+     * ex: casa
+- Si non ha, se verifica si ha un primitivo en una lingua e un derivado en oûtra con lo mesmo significado, lo primitivo è accepto
+     * ex: sòno (pt: som, es: sonido)
+- Si non ha, se verifica si ha derivados diferentes en las duas linguas, un de elles è acepto.
+     * esfarrapado (pt: esfarrapado, es: desarrapado)
+- Si non ha, se repete lo processo substituîendo lo portugués por lo galego 
+     * olla (pt: panela, es: olla, gl: ola, pota)
+- Si non ha, se repete lo processo considerando las variantes históricas de una de las linguas
+- Si non ha, se repete lo processo considerando las variantes históricas de las duas linguas
+- Si non ha, se repete lo processo substituèndo una de las linguas por oûtra lingua románica ibérica.
+     * aîer (pt: ontem, es: ayer, asturiano/leonese: ayeri)
+     * morango, fresa (pt: morango, es: fresa, ast: fresa, miruéndanu)
+- Si non ha, crea un neologismo con una oûtra palavra acepta de significado similar oû una perifrase
+     * utensilîo de mesa (pt: talher, es: cubierto)
+     * forquilla (pt: garfo (=~forquilha), es: cuchillo (=~horquilla), gl: garfo, forcada) 
 
 #### La familîa ####
 | **masculino**  | **feminino**   |
