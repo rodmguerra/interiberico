@@ -1,9 +1,9 @@
 # Interibérico #
 
 Lo interibérico è una lingûa auxiliar zonal basada en las principales lingûas románicas ibéricas ocidentales. Elle serve como una lingua ponte entre lo portugués, lo castellano (oû español), lo galego, lo asturiano, lo leonés, lo aragonés i oûtras. Lo interibérico tène:
-  * un vocabulário de referéncîa, con las palavras recomendadas para intercompreensîon 
-  * una ortografia i una pronuncîa de referencîa, similar a la ortografia e la gramatica de las linguas originales, recurrèndo a lo ancestral comun qûando ellas divergen
-  * reglas gramaticales de referencîa, eliminando idiossincrasias de una lingua especifica que non ocuren en las oûtras.
+  * un vocabulário de referéncîa, con las palavras recomendadas para intercompreensîon. 
+  * una ortografia i una pronuncîa de referencîa, similar a la ortografia e la gramatica de las linguas originales.
+  * reglas gramaticales de referencîa, que eliminan idiossincrasias que ocuren en portugués mas non en castellano e vice versa.
 
 Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronuncîa i las reglas gramaticales de referencîa. Por exemplo, se pòde escrever o dizer un texto con la ortografia e las regulas gramaticales de lo español, pero usando solamente palavras de lo vocabularîo de referencîa, de modo que los fablantes de las oûtras linguas lo poderá comprender sen maîores dificuldades. 
 
