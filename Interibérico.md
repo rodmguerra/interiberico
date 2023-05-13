@@ -81,15 +81,17 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 |    y    |            /j/            | ***y***oga      |         [ʎ] oû [ʝ]        |          [j]          |            [j]           |                                                                                                                    |
 |    z    |            /dz/           | ***z***ebra     |         [θ] oû [s]        |       [θ] oû [s]      |            [z]           |                                                                                                                    |
 
-### Acentuacîon e hifenacîon ###
+### Acentuacîon  ###
 * Con acento circunflexo (^): Las semiconsonantes î e û son sèmpre acentuadas
 * Con acento grave (`): Las vogales abèrtas è e ò son sèmpre acentuadas
 * Con acento agudo (´): 
-    - Las vogales, quando tónicas, son acentuadas con acento agudo, excepto si ela è la primera vogal antes de la última letra menos s. 
-    - Las palavras en plural son acentuadas em la mesma vogal que suas correspondentes singulares
-    - Los mono-silabos non son acentuados
-    - Qûando ha um mono-sílabo tónico con la mesma grafia de un átono, lo tónico è acentuado con acento agudo
-* Las palavras compostas son escritas juntas, sen hífen. Usa se o hifen solamente qûando la pronuncîa cambiaria si non fòsse utilisado. Exemplo: prehistórico e pre-socrático.
+      - La vogal tónica è sèmpre acentuada exceto quando ella è la vogal anterior a la última consonante e exceto quando ella è la primerîa vogal de un hiato.  Las semiconsonantes î e û non son consideradas vogales. 
+       * sab**i**a, sab**i**an - excecîon, primeîra vogal de un hiato
+       * s**a**bîo, cancî**o**n - excecîon, vogal anterior a la ultima consonante 
+       * p***á***ssaro, caf***é***, f***á***cil, com***é***ron - regla general
+    - Qûando ha un acento grave en una vogal non tónica, la vogal tónica è sèmpre acentuada.
+    - Los monossílabos non son acentuados, exceto qûando ha un oûtro monossilabo átono con la mesma grafia.
+* Las palavras compostas son sempre escritas sen separacîon. Quando la segunda parte inicia con s o r, elle è duplicado. Exemplo: prehistórico e pressocrático.
 
 ### Vocabularîo temático ###
 
@@ -161,3 +163,12 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 | ananás         | piña, ananás               | ananás, piña             | abacaxi, ananás                   |                                             |
 | coco           | coco                       | coco                     | coco                              |                                             |
 | figo           | higo                       | figo                     | figo                              |                                             |
+
+
+### Textos ###
+
+**Interibérico**
+Muîtos annos depòs, frente a lo peloton de fusilamènto, lo coronel Aureliano Bòndía havia de recordar aquella tarde remota en que suo padre lo llevó a coñocer lo gèlo. Macondo era enton una aldea de vinte casas de barro i cannabrava construidas a la margen de un río de aguas diáfanas que se precipitavan por un leîto de pèdras polidas, blancas i enormes como òvos prehistóricos. Lo mundo era tan recènte, que muîtas coûsas carecían de nomne, i para mencionar las havía que signalar las con lo dedo. Todos los annos, por lo mes de março, una familîa de gitanos esfarrapados plantava sua tènda próxima a la aldea.
+
+**Español**
+Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo. Macondo era entonces una aldea de veinte casas de barro y cañabrava construidas a la *orilla* de un río de aguas diáfanas que se precipitaban por un lecho de piedras pulidas, blancas y enormes como huevos prehistóricos. El mundo era tan reciente, que muchas cosas carecían de nombre, y para mencionarlas había que señalarlas con el dedo. Todos los años, por el mes de marzo, una familia de gitanos desarrapados plantaba su carpa *cerca* de la aldea.
