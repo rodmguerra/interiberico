@@ -96,10 +96,10 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 ### Vocabularîo de referência ###
 Para se encontrar una palavra en lo vocabulario de referencia para un determinado significado.
 - Si ha una palavra en portugués e en castellano modernos con lo mesmo significado, ella è acepta.
-     * ex: casa
-- Si non ha, se verifica si ha un primitivo en una lingua e un derivado en oûtra con lo mesmo significado, lo primitivo è accepto
-     * ex: sòno (pt: som, es: sonido)
-- Si non ha, se verifica si ha derivados diferentes en las duas linguas, un de elles è acepto.
+     * casa, mèrda (pt: merda, es: mierda)
+- Si non ha, se verifica si ha un primitivo en una lingua e un derivado en oûtra con lo mesmo significado, lo primitivo è acepto
+     * sòno (pt: som, es: sonido)
+- Si non ha, se verifica si ha derivados diferentes de una mesma palavra en las duas linguas, un de elles è acepto:
      * esfarrapado (pt: esfarrapado, es: desarrapado)
 - Si non ha, se repete lo processo substituîendo lo portugués por lo galego 
      * olla (pt: panela, es: olla, gl: ola, pota)
