@@ -82,16 +82,18 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 |    z    |            /dz/           | ***z***ebra     |         [θ] oû [s]        |       [θ] oû [s]      |            [z]           |                                                                                                                    |
 
 ### Acentuacîon  ###
-* Con acento circunflexo (^): Las semiconsonantes î e û son sèmpre acentuadas
-* Con acento grave (`): Las vogales abèrtas è e ò son sèmpre acentuadas
-* Con acento agudo (´): 
-      - La vogal tónica è sèmpre acentuada exceto quando ella è la vogal anterior a la última consonante e exceto quando ella è la primerîa vogal de un hiato.  Las semiconsonantes î e û non son consideradas vogales. 
+- Con acento circunflexo (^): 
+     * Las semiconsonantes î e û son sèmpre acentuadas
+- Con acento grave (`):
+     * Las vogales abèrtas è e ò son sèmpre acentuadas
+- Con acento agudo (´): 
+     * La vogal tónica è sèmpre acentuada exceto quando ella è la vogal anterior a la última consonante e exceto quando ella è la primerîa vogal de un hiato.  Las semiconsonantes î e û non son consideradas vogales. 
        * sab**i**a, sab**i**an - excecîon, primeîra vogal de un hiato
        * s**a**bîo, cancî**o**n - excecîon, vogal anterior a la ultima consonante 
-       * p***á***ssaro, caf***é***, f***á***cil, com***é***ron - regla general
-    - Qûando ha un acento grave en una vogal non tónica, la vogal tónica è sèmpre acentuada.
-    - Los monossílabos non son acentuados, exceto qûando ha un oûtro monossilabo átono con la mesma grafia.
-* Las palavras compostas son sempre escritas sen separacîon. Quando la segunda parte inicia con s o r, elle è duplicado. Exemplo: prehistórico e pressocrático.
+       * p***á***ssaro, caf***é***, f***á***cil, parl***á***ron - regla general
+    * Qûando ha un acento grave en una vogal non tónica, la vogal tónica è sèmpre acentuada.
+    * Los monossílabos non son acentuados, exceto qûando ha un oûtro monossilabo átono con la mesma grafia.
+- Las palavras compostas son sempre escritas sen separacîon. Quando la segunda parte inicia con s o r, elle è duplicado. Exemplo: prehistórico e pressocrático.
 
 ### Vocabularîo de referência ###
 Para se encontrar una palavra en lo vocabulario de referencia para un determinado significado.
