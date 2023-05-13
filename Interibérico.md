@@ -1,6 +1,15 @@
-# Interibérico
+# Interibérico #
 
-## Ortografia e pronuncîa
+Lo interibérico è una lingûa auxiliar zonal basada en las principales lingûas románicas ibéricas ocidentales. Elle serve como una lingua ponte entre lo portugués, lo castellano (oû español), lo galego, lo asturiano, lo leonés, lo aragonés i oûtras. Lo interibérico tène:
+  * un vocabulário de referéncîa, con las palavras recomendadas para intercompreensîon 
+  * una ortografia i una pronuncîa de referencîa, similar a la ortografia e la gramatica de las linguas originales, recurrèndo a lo ancestral comun qûando ellas divergen
+  * reglas gramaticales de referencîa, eliminando idiossincrasias de una lingua especifica que non ocuren en las oûtras.
+
+Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronuncîa i las reglas gramaticales de referencîa. Por exemplo, se pòde escrever o dizer un texto con la ortografia e las regulas gramaticales de lo español, pero usando solamente palavras de lo vocabularîo de referencîa, de modo que los fablantes de las oûtras linguas lo poderá comprender sen maîores dificuldades. 
+
+## Ortografia e pronuncîa ##
+
+### Tabela fonética ###
 
 | Símbolo | Pronuncîa de   referencîa |   Exemplo       | Pronuncîa en   castellano | Pronuncîa en   galego | Pronuncîa en   portugués | Observacîones                                                                                                      |
 |:-------:|:-------------------------:|:---------------:|:-------------------------:|:---------------------:|:------------------------:|--------------------------------------------------------------------------------------------------------------------|
@@ -71,3 +80,84 @@
 |         |            /ʃ/            | Mé***x***ico    |            [x]            |          [ʃ]          |            [ʃ]           |                                                                                                                    |
 |    y    |            /j/            | ***y***oga      |         [ʎ] oû [ʝ]        |          [j]          |            [j]           |                                                                                                                    |
 |    z    |            /dz/           | ***z***ebra     |         [θ] oû [s]        |       [θ] oû [s]      |            [z]           |                                                                                                                    |
+
+### Acentuacîon e hifenacîon ###
+* Con acento circunflexo (^): Las semiconsonantes î e û son sèmpre acentuadas
+* Con acento grave (`): Las vogales abèrtas è e ò son sèmpre acentuadas
+* Con acento agudo (´): 
+    - Las vogales, quando tónicas, son acentuadas con acento agudo, excepto si ela è la primera vogal antes de la última letra menos s. 
+    - Las palavras en plural son acentuadas em la mesma vogal que suas correspondentes singulares
+    - Los mono-silabos non son acentuados
+    - Qûando ha um mono-sílabo tónico con la mesma grafia de un átono, lo tónico è acentuado con acento agudo
+* Las palavras compostas son escritas juntas, sen hífen. Usa se o hifen solamente qûando la pronuncîa cambiaria si non fòsse utilisado. Exemplo: prehistórico e pre-socrático.
+
+### Vocabularîo temático ###
+
+#### La familîa ####
+| **masculino**  | **feminino**   |
+|----------------|----------------|
+| padre, papá    | madre, mamá    |
+| filîo          | filîa          |
+| hermano        | hermana        |
+| avòlo          | avòla          |
+| nèto           | nèta           |
+| tio            | tia            |
+| sobrino        | sobrina        |
+| primo          | prima          |
+| marido, esposo | mulîer, esposa |
+| cuñado         | cuñada         |
+| sògro          | sògra          |
+| novîo          | novîa          |
+| padrastro      | madrastra      |
+| afilîado       | afilîada       |
+
+
+#### Las partes de lo còrpo ####
+| **interibérico**                | **español**                      | **galego**                | **portugués**                                     |
+|---------------------------------|----------------------------------|---------------------------|---------------------------------------------------|
+| la cabeça                       | la cabeza                        | a cabeza                  | a cabeça                                          |
+| los cabellos                    | los cabellos, el pelo            | o cabelo                  | os cabelos                                        |
+| lo rostro, la cara              | el rostro, la cara               | a cara                    | o rosto                                           |
+| lo pescòço, lo còllo            | el cuello, el pescuezo           | o pescozo                 | o pescoço, o colo (raro)                          |
+| lo ombro                        | el hombro                        | o ombreiro                | o ombro                                           |
+| lo peîto                        | el pecho                         | o peito                   | o peito                                           |
+| los braços                      | los brazos                       | os brazos                 | os braços                                         |
+| la barriga, lo vèntre, la pança | la barriga, el vientre, la panza | a barriga, o ventre       | a barriga, o ventre, a pança                      |
+| las manos                       | las manos                        | as mans                   | as mãos                                           |
+| las pèrnas                      | las piernas                      | as pernas                 | as pernas                                         |
+| los pès                         | los pies                         | os pés                    | os pés                                            |
+| la fronte, la testa             | la frente, la testa [raro]       | a fronte, a testa         | a testa, a fronte                                 |
+| las celîas, los sobrecelîos     | las cejas, los sobrecejos        | as cellas, as sobrecellas | as sobrancelhas, os supercílios, as celhas [raro] |
+| las pestannas                   | las pestañas                     | as pestanas               | os cílios, as pestanas                            |
+| la boca                         | la boca                          | a boca                    | a boca                                            |
+| lo quexo, lo mento              | el mentón, la quijada            | o queixo                  | o queixo, o mento (raro)                          |
+| la lingûa                       | la lengua                        | lingua                    | a língua                                          |
+| los dèntes                      | los dientes                      | os dentes                 | os dentes                                         |
+| lo nariz                        | la nariz                         | o nariz                   | o nariz                                           |
+| los olîos                       | los ojos                         | os ollos                  | os olhos                                          |
+| las pálpebras                   | los párpados                     | as pálpebras              | as pálbebras                                      |
+| las orelîas                     | las orejas                       | as orellas                | as orelhas                                        |
+| los oûidos                      | los oídos                        | os oídos                  | os ouvidos                                        |
+| la nuca                         | la nuca                          | a caluga, a noca          | a nuca                                            |
+| lo ano                          | el ano                           | o ano                     | o ânus                                            |
+
+#### Las frutas ####
+| interibérico   | castellano                 | galego                   | portugués                         | comentarîos                                 |
+|----------------|----------------------------|--------------------------|-----------------------------------|---------------------------------------------|
+| maçana         | manzana                    | mazá                     | maçã                              |                                             |
+| pera           | pera                       | pera                     | pera                              |                                             |
+| uva            | uva                        | uva                      | uva                               |                                             |
+| fresa, morango | fresa, frutilla, fresón    | amorodo, amorogo, morote | morango                           | considerando o asturiano: fresa, miruéndanu |
+| banana         | banana                     | banana                   | banana                            |                                             |
+| lima           | lima                       | lima                     | lima, limão siciliano [no Brasil] |                                             |
+| limon          | limón                      | limón                    | limão, limão taiti [no Brasil]    |                                             |
+| manga          | mango                      | manga                    | manga                             | do malaiala, māṅṅa                          |
+| aguacate       | avocado, aguacate, palta   | aguacate                 | abacate                           |                                             |
+| sandia         | sandía                     | sandía                   | melancia, sandia [raro]           |                                             |
+| péssigo        | melocotón, durazno, piesgo | pexego                   | pêssego                           |                                             |
+| ciròla         | ciruela                    | ameixa, cirola           | ameixa                            |                                             |
+| naranja        | naranja                    | laranxa                  | laranja                           | do árabe, nāranj                            |
+| ceresîa        | cereza                     | cereixa                  | cereja                            |                                             |
+| ananás         | piña, ananás               | ananás, piña             | abacaxi, ananás                   |                                             |
+| coco           | coco                       | coco                     | coco                              |                                             |
+| figo           | higo                       | figo                     | figo                              |                                             |
