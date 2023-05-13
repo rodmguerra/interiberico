@@ -118,7 +118,7 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 | la cabeça                       | la cabeza                        | a cabeza                  | a cabeça                                          |
 | los cabellos                    | los cabellos, el pelo            | o cabelo                  | os cabelos                                        |
 | lo rostro, la cara              | el rostro, la cara               | a cara                    | o rosto                                           |
-| lo pescòço, lo còllo            | el cuello, el pescuezo           | o pescozo                 | o pescoço, o colo (raro)                          |
+| lo pescòço, lo còllo            | el cuello, el pescuezo           | o pescozo                 | o pescoço, o colo [raro]                          |
 | lo ombro                        | el hombro                        | o ombreiro                | o ombro                                           |
 | lo peîto                        | el pecho                         | o peito                   | o peito                                           |
 | los braços                      | los brazos                       | os brazos                 | os braços                                         |
@@ -130,8 +130,8 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 | las celîas, los sobrecelîos     | las cejas, los sobrecejos        | as cellas, as sobrecellas | as sobrancelhas, os supercílios, as celhas [raro] |
 | las pestannas                   | las pestañas                     | as pestanas               | os cílios, as pestanas                            |
 | la boca                         | la boca                          | a boca                    | a boca                                            |
-| lo quexo, lo mento              | el mentón, la quijada            | o queixo                  | o queixo, o mento (raro)                          |
-| la lingûa                       | la lengua                        | lingua                    | a língua                                          |
+| lo queîxo, lo mento             | el mentón, la quijada            | o queixo                  | o queixo, o mento (raro)                          |
+| la lingûa                       | la lengua                        | a lingua                  | a língua                                          |
 | los dèntes                      | los dientes                      | os dentes                 | os dentes                                         |
 | lo nariz                        | la nariz                         | o nariz                   | o nariz                                           |
 | los olîos                       | los ojos                         | os ollos                  | os olhos                                          |
@@ -142,7 +142,7 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 | lo ano                          | el ano                           | o ano                     | o ânus                                            |
 
 #### Las frutas ####
-| interibérico   | castellano                 | galego                   | portugués                         | comentarîos                                 |
+| ***interibérico*** | ***castellano***       | ***galego***             | ***portugués***                   | ***comentarîos***                           |
 |----------------|----------------------------|--------------------------|-----------------------------------|---------------------------------------------|
 | maçana         | manzana                    | mazá                     | maçã                              |                                             |
 | pera           | pera                       | pera                     | pera                              |                                             |
