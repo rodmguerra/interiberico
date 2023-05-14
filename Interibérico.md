@@ -137,7 +137,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | **interibérico**                | **español**                      | **galego**                | **portugués**                                     |
 |---------------------------------|----------------------------------|---------------------------|---------------------------------------------------|
 | la cabeça                       | la cabeza                        | a cabeza                  | a cabeça                                          |
-| los cabellos                    | los cabellos, el pelo            | o cabelo                  | os cabelos                                        |
+| los cabellos                    | los cabellos, el pelo            | os cabelos                | os cabelos                                        |
 | lo rostro, la cara              | el rostro, la cara               | a cara                    | o rosto                                           |
 | lo pescòço, lo còllo            | el cuello, el pescuezo           | o pescozo                 | o pescoço, o colo [raro]                          |
 | lo ombro                        | el hombro                        | o ombreiro                | o ombro                                           |
