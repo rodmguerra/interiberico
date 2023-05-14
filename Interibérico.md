@@ -114,6 +114,29 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
      * utensilîo de mesa (pt: talher, es: cubierto)
      * forquilla (pt: garfo (=~forquilha), es: cuchillo (=~horquilla), gl: garfo, forcada) 
 
+#### Verbos ####
+
+#### Ser ####
+##### Presente #####
+|              | **Interibérico** | **Español** | **Portugués** | **Gallego** | **Latin** |
+|:------------:|:----------------:|:-----------:|:-------------:|:-----------:|:---------:|
+| eo           | so               | soy         | sou           | son         | sum       |
+| tu           | es               | eres        | és            | es          | es        |
+| elle, ella   | è                | es          | é             | é           | est       |
+| nós          | somos            | somos       | somos         | somos       | sumus     |
+| vós          | sodes            | sois        | sois          | sodes       | estis     |
+| elles, ellas | son              | son         | são           | son         | sunt      |
+
+##### Pretérito perfecto #####
+|              | **Interiberico** | **Español** | **Portugués** | **Galego** | **Latin** |
+|:------------:|:----------------:|:-----------:|:-------------:|:----------:|:---------:|
+| eo           | fui              | fui         | fui           | fun        | ]         |
+| tu           | fuiste           | fuiste      | foste         | fuches     | fuistī    |
+| elle, ella   | fue              | fue         | foi           | foi        | fuit      |
+| nós          | fuimos           | fuimos      | fomos         | fomos      | fuimus    |
+| vós          | fuistes          | fuisteis    | fostes        | fostes     | fuistis   |
+| elles, ellas | fuéron           | fueron      | foram         | foron      | fuērunt   |
+
 #### La familîa ####
 | **masculino**  | **feminino**   |
 |----------------|----------------|
