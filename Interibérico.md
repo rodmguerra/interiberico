@@ -118,24 +118,34 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 
 #### Ser ####
 ##### Presente #####
-|              | **Interibérico** | **Español** | **Portugués** | **Gallego** | **Latin** |
-|:------------:|:----------------:|:-----------:|:-------------:|:-----------:|:---------:|
-| eo           | so               | soy         | sou           | son         | sum       |
-| tu           | es               | eres        | és            | es          | es        |
-| elle, ella   | è                | es          | é             | é           | est       |
-| nós          | somos            | somos       | somos         | somos       | sumus     |
-| vós          | sodes            | sois        | sois          | sodes       | estis     |
-| elles, ellas | son              | son         | são           | son         | sunt      |
+|              | **Interibérico** | **Español** | **Portugués** | **Gallego** | **Asturiano** | **Aragonés**  | **Latin** |
+|--------------|------------------|-------------|---------------|-------------|---------------|---------------|-----------|
+| eo           | so               | soy         | sou           | son         | soi / so        | soi           | sum       |
+| tu           | ès               | eres        | és            | es          | yes           | yes           | es        |
+| elle, ella   | è                | es          | é             | é           | ye            | ye            | est       |
+| nós          | somos            | somos       | somos         | somos       | somos         | somos / semos | sumus     |
+| vós          | soîs             | sois        | sois          | sodes       | sois          | sotz / setz   | estis     |
+| elles, ellas | son              | son         | são           | son         | son           | son           | sunt      |
 
-##### Pretérito perfecto #####
+##### Pretérito #####
 |              | **Interiberico** | **Español** | **Portugués** | **Galego** | **Latin** |
 |:------------:|:----------------:|:-----------:|:-------------:|:----------:|:---------:|
-| eo           | fui              | fui         | fui           | fun        | ]         |
+| eo           | fui              | fui         | fui           | fun        | fuī       |
 | tu           | fuiste           | fuiste      | foste         | fuches     | fuistī    |
 | elle, ella   | fue              | fue         | foi           | foi        | fuit      |
 | nós          | fuimos           | fuimos      | fomos         | fomos      | fuimus    |
 | vós          | fuistes          | fuisteis    | fostes        | fostes     | fuistis   |
 | elles, ellas | fuéron           | fueron      | foram         | foron      | fuērunt   |
+
+##### Copretérito #####
+|              | **Interiberico** | **Español** | **Portugués** | **Galego** | **Latin** |
+|:------------:|:----------------:|:-----------:|:-------------:|:----------:|:---------:|
+| eo           | era              | era         | era           | era        | eram      |
+| tu           | eras             | eras        | eras          | eras       | erās      |
+| elle, ella   | era              | era         | era           | era        | erat      |
+| nós          | éramos           | éramos      | éramos        | eramos     | erāmus    |
+| vós          | érades           | erais       | éreis         | erades     | erātis    |
+| elles, ellas | éran             | eran        | eram          | eran       | erant     |
 
 #### La familîa ####
 | **masculino**  | **feminino**   |
