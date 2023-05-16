@@ -181,7 +181,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | las pèrnas                      | las piernas                      | as pernas                 | as pernas                                         |
 | los pès                         | los pies                         | os pés                    | os pés                                            |
 | la fronte, la testa             | la frente, la testa [raro]       | a fronte, a testa         | a testa, a fronte                                 |
-| las celîas, los sobrecelîos     | las cejas, los sobrecejos        | as cellas, as sobrecellas | as sobrancelhas, os supercílios, as celhas [raro] |
+| las celîas, las sobrecelîas     | las cejas, los sobrecejos        | as cellas, as sobrecellas | as sobrancelhas, os supercílios, as celhas [raro] |
 | las pestannas                   | las pestañas                     | as pestanas               | os cílios, as pestanas                            |
 | la boca                         | la boca                          | a boca                    | a boca                                            |
 | lo queîxo, lo mento             | el mentón, la quijada            | o queixo                  | o queixo, o mento (raro)                          |
