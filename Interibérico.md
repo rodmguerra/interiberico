@@ -1,57 +1,57 @@
 # Interibérico #
 
-Lo interibérico è una lingûa auxiliar zonal basada en las principales lingûas románicas ibéricas ocidentales. Elle serve como una lingua ponte entre lo portugués, lo castellano (oû español), lo galego, lo asturiano, lo leonés, lo aragonés i oûtras. Lo interibérico tène:
-  * un vocabulário de referéncîa, con las palavras recomendadas para intercompreensîon. 
-  * una ortografia i una pronuncîa de referencîa, similar a la ortografia e la gramatica de las linguas originales.
-  * reglas gramaticales de referencîa, que eliminan idiossincrasias que ocuren en portugués mas non en castellano e vice versa.
+Lo interibérico è una lingûa auxiliar zonal basada en las principales lingûas románicas ibéricas ocidentales. Elle serve como una lingua ponte entre lo portugués, lo castellano (oû español), lo gallego, lo asturiano, lo leonés, lo aragonés i oûtras. Lo interibérico tène:
+  * un vocabularîo de referencîa, con las palavras recomendadas para intercompreensîon. 
+  * una ortografia i una pronuncîa de referencîa, similar a la ortografia i la gramática de las lingûas originales.
+  * reglas gramaticales de referencîa, que eliminan idiossincrasias que ocurren en portugués mas non en castellano e vice versa.
 
-Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronuncîa i las reglas gramaticales de referencîa. Por exemplo, se pòde escrever o dizer un texto con la ortografia e las regulas gramaticales de lo español, pero usando solamente palavras de lo vocabularîo de referencîa, de modo que los fablantes de las oûtras linguas lo poderá comprender sen maîores dificuldades. 
+Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronuncîa i las reglas gramaticales de referencîa. Por exemplo, se pòde escrever o dizer un texto con la ortografia e las reglas gramaticales de lo español, pero usando solamente palavras de lo vocabularîo de referencîa, de modo que los fablantes de las oûtras linguas lo poderan comprender sen maîores dificuldades. 
 
 ## Ortografia e pronuncîa ##
 
 ### Tabela fonética ###
 
-| Símbolo | Pronuncîa de   referencîa |   Exemplo       | Pronuncîa en   castellano | Pronuncîa en   galego | Pronuncîa en   portugués | Observacîones                                                                                                      |
+| Símbolo | Pronuncîa de   referencîa |   Exemplo       | Pronuncîa en   castellano | Pronuncîa en  gallego | Pronuncîa en   portugués | Observacîones                                                                                                      |
 |:-------:|:-------------------------:|:---------------:|:-------------------------:|:---------------------:|:------------------------:|--------------------------------------------------------------------------------------------------------------------|
-|    a    |            /a/            | c***a***sa      |            [a]            |          [a]          |            [a]           | dependièndo de la posicîon, esta vogal è suavizada en portugués e galego para [ɐ]                                  |
-|    b    |            /b/            | ***b***arco     |            [b]            |          [b]          |            [b]           | dependièndo de la posicîon, esta consonante è suavizada en castellano e galego para [β]                            |
+|    a    |            /a/            | c***a***sa      |            [a]            |          [a]          |            [a]           | dependièndo de la posicîon, esta vogal è suavizada en portugués i gallego para [ɐ]                                  |
+|    b    |            /b/            | ***b***arco     |            [b]            |          [b]          |            [b]           | dependièndo de la posicîon, esta consonante è suavizada en castellano i gallego para [β]                            |
 |    c    |            /k/            | ***c***arro     |            [k]            |          [k]          |            [k]           | antes de a, o, u oû consonantes                                                                                    |
-|         |           /ts/            | ***c***ervesîa  |         [θ] oû [s]        |       [θ] oû [s]      |            [s]           | antes de e, i; cerveza, cervexa e cerveja en las grafias originales                                                |
-|    ç    |            /ts/           | a***ç***úcar    |         [θ] oû [s]        |       [θ] oû [s]      |            [s]           | azúcar, açúcar e azucre en las grafias originales                                                                  |
+|         |           /ts/            | ***c***ervesîa  |         [θ] oû [s]        |       [θ] oû [s]      |            [s]           | antes de e, i; cerveza, cervexa i cerveja en las grafias originales                                                |
+|    ç    |            /ts/           | a***ç***úcar    |         [θ] oû [s]        |       [θ] oû [s]      |            [s]           | azúcar, açúcar i azucre en las grafias originales                                                                  |
 |    ch   |            /tʃ/           | du***ch***a     |            [tʃ]           |          [tʃ]         |            [ʃ]           |                                                                                                                    |
-|    cl   |            /kl/           | ***cl***ave     |         [ʎ] oû [ʝ]        |          [ʃ]          |            [ʃ]           | llave, chave e chave en las grafias originales; ha oûtras pronuncias regionales en castellano                    |
+|    cl   |            /kl/           | ***cl***ave     |         [ʎ] oû [ʝ]        |          [ʃ]          |            [ʃ]           | llave, chave i chave en las grafias originales; ha oûtras pronuncias regionales en castellano                    |
 |         |                           | bici***cl***eta |            [kl]           |          [kl]         |           [kl]           |                                                                                                                    |
 |    d    |            /d/            | ***d***edo      |            [d]            |          [d]          |            [d]           |                                                                                                                    |
 |    e    |            /e/            | el***e***fante  |            [e]            |          [e]          |            [e]           | dependièndo de la posicîon, esta vogal è suavizada en portugués para [i], [ɨ] o [∅]                              |
 |    è    |            /ɛ/            | m***è***rda     |            [je]           |          [ɛ]          |            [ɛ]           | mierda en la grafia original castellana                                                                          |
 |         |                           | m***è***do      |            [je]           |          [e]          |            [e]           | miedo en la grafia original castellana                                                                           |
-|    f    |            /f/            | ***f***ògo      |            [f]            |          [f]          |            [f]           | fuego, fogo e fogo en las grafias originales                                                                     |
+|    f    |            /f/            | ***f***ògo      |            [f]            |          [f]          |            [f]           | fuego, fogo i fogo en las grafias originales                                                                     |
 |         |                           | ***f***ada      |            [∅]            |          [f]          |            [f]           | hada en la grafia   original castellana                                                                            |
-|    fl   |            /fl/           | ***fl***ama     |         [ʎ] oû [ʝ]        |          [ʃ]          |            [ʃ]           | llama, chama e chama   en las grafias originales; ha oûtras pronuncias regionales en castellano                    |
+|    fl   |            /fl/           | ***fl***ama     |         [ʎ] oû [ʝ]        |          [ʃ]          |            [ʃ]           | llama, chama i chama   en las grafias originales; ha oûtras pronuncias regionales en castellano                    |
 |         |                           | in***fl***amar  |            [fl]           |          [fl]         |           [fl]           |                                                                                                                    |
-|    g    |            /g/            | ***g***ato      |            [g]            |          [g]          |            [g]           | dependièndo de la   posicîon, esta consonante è suavizada en castellano e galego para [ɣ]                          |
-|         |            /dʒ/           | ***g***ente     |            [x]            |          [ʃ]          |            [ʒ]           | antes de e, i; gente,   gente e xente en las grafias originales.                                                   |
+|    g    |            /g/            | ***g***ato      |            [g]            |          [g]          |            [g]           | dependièndo de la   posicîon, esta consonante è suavizada en castellano i gallego para [ɣ]                          |
+|         |            /dʒ/           | ***g***ente     |            [x]            |          [ʃ]          |            [ʒ]           | antes de e, i; gente,   gente i xente en las grafias originales.                                                   |
 |    gu   |            /g/            | ***gu***erra    |            [g]            |          [g]          |            [g]           |                                                                                                                    |
-|    gû   |            /gw/           | a***gû***a      |            [gw]           |          [gw]         |           [gw]           | agua, agua/auga e água en las grafias originales                                                                 |
+|    gû   |            /gw/           | a***gû***a      |            [gw]           |          [gw]         |           [gw]           | agua, agua/auga i água en las grafias originales                                                                 |
 |    h    |            /∅/            | ***h***ora      |            [∅]            |          [∅]          |            [∅]           |                                                                                                                    |
-|    i    |            /i/            | ***I***talîa    |            [i]            |          [i]          |            [i]           | dependièndo de la   posicîon en la palavra e la region geográfica, esta vogal  è suavizada en portugués para [ɨ]   |
-|    î    |            /j/            | jo***î***a      |            [ʝ]            |          [j]          |            [j]           | joya, joia e joia en   las grafias originales; ha oûtras pronuncias regionales en castellano                       |
-|    ît   |            /jt/           | no***ît***e     |            [tʃ]           |          [jt]         |           [jt]           | noche en la grafia   orginal castellana                                                                            |
-|    j    |            /ʒ/            | via***j***ar    |            [x]            |          [ʃ]          |            [ʒ]           | viajar, viaxar e   viajar em las grafias originales                                                                |
+|    i    |            /i/            | ***I***talîa    |            [i]            |          [i]          |            [i]           | dependièndo de la posicîon en la palavra i la region geográfica, esta vogal è suavizada en portugués para [ɨ]   |
+|    î    |            /j/            | jo***î***a      |            [ʝ]            |          [j]          |            [j]           | joya, joia i joia en las grafias originales; ha oûtras pronuncias regionales en castellano                       |
+|    ît   |            /jt/           | no***ît***e     |            [tʃ]           |          [jt]         |           [jt]           | noche en la grafia orginal castellana                                                                            |
+|    j    |            /ʒ/            | via***j***ar    |            [x]            |          [ʃ]          |            [ʒ]           | viajar, viaxar i viajar em las grafias originales                                                                |
 |         |            /ʒ/            | a***j***uda     |            [ʝ]            |          [ʃ]          |            [ʒ]           | ayuda, axuda e ajuda   en las grafias originales                                                                   |
-|    k    |            /k/            | ***k***ilómetro |            [k]            |          [k]          |            [k]           | quilômetro e   quilómetro en las grafias originales en portugués e galego                                          |
+|    k    |            /k/            | ***k***ilómetro |            [k]            |          [k]          |            [k]           | quilômetro e quilómetro en las grafias originales en portugués i gallego                                          |
 |    l    |            /l/            | ***l***apis     |            [l]            |          [l]          |            [l]           |                                                                                                                    |
 |    lî   |            /lj/           | fo***lî***a     |            [x]            |          [ʎ]          |            [ʎ]           |                                                                                                                    |
 |         |                           | pa***lî***asso  |             [ʝ]           |          [ʎ]          |            [ʎ]           |                                                                                                                    |
 |    ll   |            /ʎ/            | bri***ll***o    |         [ʎ] oû [ʝ]        |          [ʎ]          |            [ʎ]           |                                                                                                                    |
 |         |                           | gri***ll***o    |         [ʎ] oû [ʝ]        |          [l]          |            [l]           |                                                                                                                    |
-|    m    |            /m/            | ***m***açana    |            [m]            |          [m]          |            [m]           | manzana, maçana e mazá en las grafias originales                                                                   |
-|    mn   |            /mn/           | no***mn***e     |           [mbr]           |          [m]          |            [m]           | antes de e, i; gente,   gente e xente en las grafias originales.                                                   |
+|    m    |            /m/            | ***m***açana    |            [m]            |          [m]          |            [m]           | manzana, maçã i mazá en las grafias originales                                                                   |
+|    mn   |            /mn/           | no***mn***e     |           [mbr]           |          [m]          |            [m]           | antes de e, i; gente, gente e xente en las grafias originales.                                                   |
 |    n    |            /n/            | ***n***ariz     |            [n]            |          [n]          |            [n]           |                                                                                                                    |
 |         |                           | te***n***er     |            [n]            |          [∅]          |            [∅]           |                                                                                                                   |
 |    ñ    |            /ɲ/            | ba***ñ***o      |            [ɲ]            |          [ɲ]          |            [ɲ]           |                                                                                                                    |
 |    nn   |            /nn/           | a***nn***o      |            [ɲ]            |          [n]          |            [n]           |                                                                                                                    |
-|    o    |            /o/            | g***o***ta      |            [o]            |          [o]          |            [o]           | dependièndo de la   posicîon, esta vogal è suavizada en portugués para [u] e galego para [ʊ]                       |
+|    o    |            /o/            | g***o***ta      |            [o]            |          [o]          |            [o]           | dependièndo de la posicîon, esta vogal è suavizada en portugués para [u] i para [ʊ] en gallego                       |
 |    oû   |            /ow/           | ***oû***tro     |            [o]            |          [ow]         |           [ow]           |                                                                                                                    |
 |    ò    |            /ɔ/            | n***ò***vos     |            [we]           |          [ɔ]          |            [ɔ]           |                                                                                                                    |
 |         |                           | n***ò***vo      |            [we]           |       [ɔ] oû [o]      |            [o]           |                                                                                                                    |
@@ -66,14 +66,14 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 |    rr   |            /r/            | ca***rr***o     |            [r]            |          [r]          |        [h] oû [ʁ]        |                                                                                                                    |
 |    s    |            /s/            | ***s***apo      |            [s]            |          [s]          |            [s]           |                                                                                                                    |
 |         |            /z/            | me***s***a      |            [s]            |          [s]          |            [z]           | entre vogales                                                                                                      |
-|    sî   |            /zj/           | que***sî***o    |            [s]            |          [jʒ]         |           [jʃ]           | entre vogales; queso,   queixo e queijo                                                                            |
-|         |            /zj/           | cerve***sî***a  |            [s]            |          [ʒ]          |            [ʃ]           | entre vogales;   cerveza, cervexa e cerveja                                                                        |
+|    sî   |            /zj/           | que***sî***o    |            [s]            |          [jʒ]         |           [jʃ]           | entre vogales; queso,   queixo i queijo                                                                            |
+|         |            /zj/           | cerve***sî***a  |            [s]            |          [ʒ]          |            [ʃ]           | entre vogales; cerveza, cervexa i cerveja                                                                        |
 |    ss   |            /s/            | mi***ss***a     |            [s]            |          [s]          |            [s]           |                                                                                                                    |
 |         |                           | pá***ss***aro   |            [x]            |          [s]          |            [ʃ]           |                                                                                                                    |
-|    t    |            /t/            | ***t***elîa     |            [t]            |          [t]          |            [t]           | en muîtas regiones de   Brasil, esta consonante antes de e e i è suavizada en portugués para [tʃ]                  |
+|    t    |            /t/            | ***t***elîa     |            [t]            |          [t]          |            [t]           | en muîtas regiones de   Brasil, esta consonante antes de e i i è suavizada en portugués para [tʃ]                  |
 |    u    |            /u/            | ***u***rbano    |            [u]            |          [u]          |            [u]           |                                                                                                                    |
 |    û    |            /w/            | ja***û***la     |            [w]            |          [w]          |            [w]           |                                                                                                                    |
-|    v    |            /v/            | ***v***aca      |            [b]            |          [b]          |            [v]           | dependièndo de la   posicîon, esta consonante è suavizada en castellano e galego para [β]                          |
+|    v    |            /v/            | ***v***aca      |            [b]            |          [b]          |            [v]           | dependièndo de la   posicîon, esta consonante è suavizada en castellano i gallego para [β]                          |
 |    w    |            /w/            | ki***w***i      |            [w]            |          [w]          |            [w]           |                                                                                                                    |
 |    x    |            /ks/           | e***x***plicar  |            [ks]           |          [s]          |            [s]           |                                                                                                                    |
 |         |            /gz/           | e***x***emplo   |            [ks]           |          [s]          |            [z]           | entre vogales                                                                                                      |
@@ -97,9 +97,9 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 
 ### Vocabularîo de referência ###
 Para se encontrar una palavra en lo vocabulario de referencia para un determinado significado.
-- Si ha una palavra en portugués e en castellano modernos con lo mesmo significado, ella è acepta.
+- Si ha una palavra en portugués i en castellano modernos con lo mesmo significado, ella è acepta.
      * casa, mèrda (pt: merda, es: mierda)
-- Si non ha, se verifica si ha un primitivo en una lingua e un derivado en oûtra con lo mesmo significado, lo primitivo è acepto
+- Si non ha, se verifica si ha un primitivo en una lingua i un derivado en oûtra con lo mesmo significado, lo primitivo è acepto
      * sòno (pt: som, es: sonido)
 - Si non ha, se verifica si ha derivados diferentes de una mesma palavra en las duas linguas, un de elles è acepto:
      * esfarrapado (pt: esfarrapado, es: desarrapado)
@@ -128,7 +128,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | elles, ellas | son              | son         | são           | son         | son           | son           | sunt      |
 
 ##### Pretérito #####
-|              | **Interiberico** | **Español** | **Portugués** | **Galego** | **Latin** |
+|              | **Interiberico** | **Español** | **Portugués** | **Gallego** | **Latin** |
 |:------------:|:----------------:|:-----------:|:-------------:|:----------:|:---------:|
 | eo           | fui              | fui         | fui           | fun        | fuī       |
 | tu           | fuiste           | fuiste      | foste         | fuches     | fuistī    |
@@ -138,7 +138,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | elles, ellas | fuéron           | fueron      | foram         | foron      | fuērunt   |
 
 ##### Copretérito #####
-|              | **Interiberico** | **Español** | **Portugués** | **Galego** | **Latin** |
+|              | **Interiberico** | **Español** | **Portugués** | **Gallego** | **Latin** |
 |:------------:|:----------------:|:-----------:|:-------------:|:----------:|:---------:|
 | eo           | era              | era         | era           | era        | eram      |
 | tu           | eras             | eras        | eras          | eras       | erās      |
@@ -148,7 +148,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | elles, ellas | éran             | eran        | eram          | eran       | erant     |
 
 #### La familîa ####
-| **masculino**  | **feminino**   |
+| **Masculino**  | **Feminino**   |
 |----------------|----------------|
 | padre, papá    | madre, mamá    |
 | filîo          | filîa          |
@@ -167,7 +167,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 
 
 #### Las partes de lo còrpo ####
-| **interibérico**                | **español**                      | **galego**                | **portugués**                                     |
+| **Interibérico**                | **Castellano**                   | **Gallego**               | **Portugués**                                     |
 |---------------------------------|----------------------------------|---------------------------|---------------------------------------------------|
 | la cabeça                       | la cabeza                        | a cabeza                  | a cabeça                                          |
 | los cabellos                    | los cabellos, el pelo            | os cabelos                | os cabelos                                        |
@@ -196,7 +196,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | lo ano                          | el ano                           | o ano                     | o ânus                                            |
 
 #### Las frutas ####
-| ***interibérico*** | ***castellano***       | ***galego***             | ***portugués***                   | ***comentarîos***                           |
+| ***Interibérico*** | ***Castellano***       | ***Gallego***           | ***Portugués***                    | ***Comentarîos***                           |
 |----------------|----------------------------|--------------------------|-----------------------------------|---------------------------------------------|
 | maçana         | manzana                    | mazá                     | maçã                              |                                             |
 | pera           | pera                       | pera                     | pera                              |                                             |
@@ -222,5 +222,5 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 **Interibérico**
 Muîtos annos depòs, frente a lo peloton de fusilamènto, lo coronel Aureliano Bòndía havia de recordar aquella tarde remota en que suo padre lo llevó a coñocer lo gèlo. Macondo era enton una aldea de vinte casas de barro i cannabrava construidas a la margen de un río de aguas diáfanas que se precipitavan por un leîto de pèdras polidas, blancas i enormes como òvos prehistóricos. Lo mundo era tan recènte, que muîtas coûsas carecían de nomne, i para mencionar las havía que signalar las con lo dedo. Todos los annos, por lo mes de março, una familîa de gitanos esfarrapados plantava sua tènda próxima a la aldea.
 
-**Español**
+**Castellano**
 Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo. Macondo era entonces una aldea de veinte casas de barro y cañabrava construidas a la *orilla* de un río de aguas diáfanas que se precipitaban por un lecho de piedras pulidas, blancas y enormes como huevos prehistóricos. El mundo era tan reciente, que muchas cosas carecían de nombre, y para mencionarlas había que señalarlas con el dedo. Todos los años, por el mes de marzo, una familia de gitanos desarrapados plantaba su *carpa* *cerca* de la aldea.
