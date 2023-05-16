@@ -128,7 +128,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | elles, ellas | son              | son         | são           | son         | son           | son           | sunt      |
 
 ##### Pretérito #####
-|              | **Interiberico** | **Español** | **Portugués** | **Gallego** | **Latin** |
+|              | **Interibérico** | **Español** | **Portugués** | **Gallego** | **Latin** |
 |:------------:|:----------------:|:-----------:|:-------------:|:----------:|:---------:|
 | eo           | fui              | fui         | fui           | fun        | fuī       |
 | tu           | fuiste           | fuiste      | foste         | fuches     | fuistī    |
@@ -138,7 +138,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | elles, ellas | fuéron           | fueron      | foram         | foron      | fuērunt   |
 
 ##### Copretérito #####
-|              | **Interiberico** | **Español** | **Portugués** | **Gallego** | **Latin** |
+|              | **Interibérico** | **Español** | **Portugués** | **Gallego** | **Latin** |
 |:------------:|:----------------:|:-----------:|:-------------:|:----------:|:---------:|
 | eo           | era              | era         | era           | era        | eram      |
 | tu           | eras             | eras        | eras          | eras       | erās      |
