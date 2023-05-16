@@ -87,7 +87,7 @@ Non è necessarîo utilisar al mesmo tèmpo la gramatica, la ortografia, pronunc
 - Con acento grave (`):
      * Las vogales abèrtas è e ò son sèmpre acentuadas
 - Con acento agudo (´): 
-     * La vogal tónica è sèmpre acentuada exceto quando ella è la vogal anterior a la última consonante e exceto quando ella è la primerîa vogal de un hiato.  Las semiconsonantes î e û non son consideradas vogales. 
+     * La vogal tónica è sèmpre acentuada exceto quando ella è la vogal anterior a la última consonante e exceto quando ella è la primerîa vogal de un hiato.  Las semiconsonantes î e û non son consideradas vogales. Lo s final è ignorado.
        * sab**i**a, sab**i**an - excecîon, primeîra vogal de un hiato
        * s**a**bîo, cancî**o**n - excecîon, vogal anterior a la ultima consonante 
        * p***á***ssaro, caf***é***, f***á***cil, fabl***á***ron - regla general
@@ -144,7 +144,7 @@ Para se encontrar una palavra en lo vocabulario de referencia para un determinad
 | tu           | eras             | eras        | eras          | eras       | erās      |
 | elle, ella   | era              | era         | era           | era        | erat      |
 | nós          | éramos           | éramos      | éramos        | eramos     | erāmus    |
-| vós          | érades           | erais       | éreis         | erades     | erātis    |
+| vós          | eraîs            | erais       | éreis         | erades     | erātis    |
 | elles, ellas | éran             | eran        | eram          | eran       | erant     |
 
 #### La familîa ####
