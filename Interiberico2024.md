@@ -12,7 +12,7 @@ Em geral coincide com as vogais do português e do espanhol, com exceção das v
 * **i**, latim **ī**, exemplo: *f**i**go* (es: *h**i**go*, pt: *f**i**go*)
 * **o**, latim **ō** ou **ŭ**, exemplo *am**o**r* e *b**o**ca*
 * **ò**, latim **ŏ** em posição tônica, exemplo *p**ò**rta* (es: *p**ue**rta*, pt: *p**o**rta*)
-* **ô**, exemplo ***ô**ro** (es: ***o**ro*, pt: ***ou**ro*)
+* **ô**, exemplo ***ô**ro* (es: ***o**ro*, pt: ***ou**ro*)
 * **u**, latim **ū**, exemplo: *p**u**ro*
 
 Na pronúncia internacional, respectivamente [a], [e], [ɛ], [i], [o], [ɔ], [ow], [u]
