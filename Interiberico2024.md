@@ -1,7 +1,9 @@
 # Interibérico
 
 ## Ortografia unificada
-O interibérico fornece uma ortografia unificada para o espanhol, o português, o galego e as demais línguas iberorromances ocidentais. Textos nessas línguas podem ser escritas com a ortografia interibérica, e ao serem lidos em voz alta, por óbvio, pode-se usar a fonética da língua regional correspondende. Como alternativa, fornecemos uma pronúncia padrão neutra, chamada pronúncia internacional, baseada na fonética histórica comum a essas línguas.
+O interibérico fornece uma ortografia unificada para o espanhol, o português, o galego e as demais línguas iberorromances ocidentais. Textos nessas línguas podem ser escritas com a ortografia interibérica, e essa padronização aplica-se apenas à escrita. Ao ler esses textos em voz alta preserva-se a fonética da língua em que foi escrita.
+
+Em contrapartida, fornecemos também uma pronúncia padrão neutra, chamada pronúncia internacional, baseada na fonética histórica comum a essas línguas.
 
 ### Vogais
 Em geral coincide com as vogais do português e do espanhol, com exceção das vogais acentuadas, conforme pode se visto abaixo:
@@ -15,7 +17,7 @@ Em geral coincide com as vogais do português e do espanhol, com exceção das v
 * **ô**, exemplo ***ô**ro* (es: ***o**ro*, pt: ***ou**ro*)
 * **u**, latim **ū**, exemplo: *p**u**ro*
 
-Na pronúncia internacional, respectivamente [a], [e], [ɛ], [i], [o], [ɔ], [ow], [u]
+Na pronúncia internacional, respectivamente [a], [e], [ɛ], [oj], [i], [o], [ɔ], [ow], [u]
 
 ### Consoantes
 Em geral coincidem com as consoantes do português e do espanhol, no entanto essas línguas passaram por transformações fonológicas distintas, de modo que adotou-se uma ortografia histórica, baseada no ancestral comum mais recente dos fonemas correspondentes.
