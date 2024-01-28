@@ -50,7 +50,7 @@ Considerações
 ## Vocabulário internacional
 Conforme visto a ortografia unificada pode ser usada para escrever em qualquer um dos idiomas regionais. Dessa forma, todas as palavras de todas as variantes regionais do português, do espanhol, do galego, do leonês e dos demais idiomas iberorromances ocidentais podem ser escritas em interibérico. 
 
-No entanto, foi padronizado um vocabulário internacional, selecionando palavras que serão mais facilmente compreendidas pelos falantes de todas as línguas regionais. 
+No entanto, foi padronizado um vocabulário internacional, evitando regionalismos, visando produzir textos compreensíveis a todos os falantes dessas línguas.
 
 Em geral, se uma palavra cognata aparece ao mesmo tempo no português e no espanhol contemporâneos com o mesmo significado, esta palavra é aceita no vocabulário internacional com este significado comum. Exemplo: *folya* (es: hoja, pt: folha).
 
@@ -61,8 +61,8 @@ Algumas palavras possuem cognatos em português e espanhol, mas com significados
 Mas se eu precisar de uma palavra e não encontrar nenhum cognato com o mesmo significado na outra língua? São possíveis algumas alternativas, devendo respeitar a seguinte ordem de preferência:
 1. Selecionar uma outra palavra internacional com o mesmo significado. Exemplo: em vez de usar a palavra espanhola "perro" que não possui cognato no português moderno, pode-se usar *can* (es: can, pt: cão)
 2. Fazer uma perífrase ou analogia para ajustar o sentido de um cognato para que ele seja compreensível nas duas línguas. Exemplo: a palavra portuguesa *borboleta* (en: butterfly) se traduz em espanhol como "mariposa". Porém *mariposa* em português representa outro animal (en: moth) que se traduz em espanhol como *polilla*. Para gerar uma intercompreensão podemos criar as analogias: *mariposa bonita* (en: butterfly) e *mariposa fea* (en: moth)
-3. Buscar a coincidência nos significados arcaicos dessas palavras 
-4. Buscar o cognato em arcaísmos do outro idioma.
+3. Buscar a coincidência nos significados arcaicos ou usos regionais dessas palavras.
+4. Buscar o cognato em regionalismos ou arcaísmos do outro idioma.
 5. Buscar o cognato em outras línguas ibéricas ocidentais, no catalão ou em outras línguas românicas.
 
 ## Glossário
