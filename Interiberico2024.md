@@ -27,6 +27,7 @@ Casos especiais:
 * **ç**,  equivale ao **ç** de  quando este se iguala ao *z* do espanhol. Exemplo: *a**ç**úcar* (pt: *a**ç**úcar*, es: *a**z**úcar*), na pronúncia internacional recebe o som [ts]
 * **ch**, equivale ao *ch* do espanhol quando esse se iguala ao *ch* do português. Exemplo: ***ch**upar*, na pronúncia internacional recebe o som [tʃ]  
 * **g**, equivale ao **g* do português e do espanhol. Na pronúncia internacional, recebe o som [g], exceto quando antecede **e** ou **i**, recebendo o som [dʒ]
+* **gu** e **gü**, equivale ao **g*u do português e do espanhol. Na pronúncia internacional, quando antecede **e** ou **i**, o dígrafo **gu** recebe o som [g] e **gü** recebe o som [gw]. Nos demais casos, aplica-se apenas a forma **gu** com o som [gw]
 * **dy**, equivale ao **j** do português quando este se iguala ao **y** do espanhol. Exemplo *a**dy**uda* (es: ayuda, pt: ajuda) e *ho**dy**e* (es: hoy, pt: hoje)
 * **j**, equivale ao **j* do português e do espanhol. Na pronúncia internacional, recebe o som [ʒ].
 * **ll**, usado quando na passagem do latim para o espanhol a consoante geminada se preserva como **ll**, mas no português se simplifica como **l**. Exemplo: *amarè**ll**o* (es: amarillo, esp. med.: amariello, pt: amarelo). Na pronúncia internacional, recebe o som [lː]
@@ -39,7 +40,7 @@ Casos especiais:
 * **ss**, equivale ao *s* do espanhol quando este se equivale ao **ss** do português. Na pronúncia internacional, recebe o som [s]
 * **x**, usado quando na passagem do latim para o romance o **ss** sucedido de uma vogal palatal átona converteu-se em um yod e palatizou a consoante como [ʃ]. Esse som se preservou no português moderno, mas no espanhol converteu-se em [x], passando a ser representado por *j*. Exemplo: *ro**x**o* (pt: *ro**x**o*, es: *ro**j**o*, ainda que apresentem significados distintos atualmente)
 * **x**, usado quando a letra **x** do latim é preservada no espanhol e no português. Exemplo: *e**x**ato* e *e**x**tremo. Na pronúncia internacional, recebe o som [gz] entre vogais e [ks] nos demais casos.
-* **qu**, proveniente do *qu* sempre sucedido de vogal do latim, escrito em português como *qu*, e em espanhol como *qu* ou *cu*. Exemplo: ***qu**atro*, *par**que***. 
+* **qu** e **qü**, proveniente do *qu* sempre sucedido de vogal do latim, escrito em português como *qu*, e em espanhol como *qu* ou *cu*. Exemplo: ***qu**atro* (es: cuatro, pt: quatro), *par**que***. Na pronúncia internacional, antes de **e** e **i**, o dígrafo **qu** se pronuncia [k] **qü** se pronuncia [kw]. Nos demais casos usa-se apenas **qu** e se pronuncia [kw].
 * **y**, usado para representar a semivogal *i*, sempre que ela for preservada em português ou espanhol. Geralmente equivale ao *y* do espanhol e ao *i* do português quando este é uma semivogal. Exemplo: *bò**y*** (es: buey, pt: boi), ***y**ogurt* (es: yogur, pt: iogurte), *ques**y**o* (es: queso, pt: queijo, lat: caseus).  Na pronúncia internacional, recebe o som [j].
 * **yt**, ocorre quando na passagem do latim para o romance do encontro consonantal **ct** o [k] se converteu em um i semivocálico. Esse som permaneceu no português moderno, mas no espanhou se converteu em **ch**. Exemplo: *no**y**te* (es: noche, pt: noite), Na pronúncia internacional, recebe o som [jt]
 
